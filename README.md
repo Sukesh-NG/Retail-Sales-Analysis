@@ -18,6 +18,10 @@ This is an end-to-end Data Analyst project developed using Python, SQL, and Powe
 3. Dashboard Development using Power BI
 4. KPI Creation using DAX Measures
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## Dashboard Features
 
 * Total Sales
