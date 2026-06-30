@@ -1,0 +1,201 @@
+Order_ID,Customer_ID,Customer_Name,Product,Category,Sales,Profit,Quantity,Order_Date,State,Region,Profit_Margin,Month
+ORD149,C1149,Vijay,Monitor,Electronics,842.0,4368.0,4.0,2024-03-17,Kerala,south,518.76,March
+ORD089,C1089,Suresh,Keyboard,Furnitures,1338.0,7393.0,5.0,2024-02-07,Tamil Nadu,south,552.54,February
+ORD022,C1022,Pooja,Desk,Furnitures,1369.0,1924.0,1.0,2024-03-17,Kerala,south,140.54,March
+ORD087,C1087,none,Mobile Phone,Electronics,2828.0,4907.0,4.0,2024-06-06,Gujarath,North,173.51,June
+ORD197,C1197,Karthik,Desk,Furnitures,4152.0,461.0,3.0,2024-05-01,Kerala,South,11.1,May
+ORD185,C1185,Ravi,Office Chair,Furnitures,4819.0,3221.0,4.0,2024-06-29,Kerala,South,66.84,June
+ORD046,C1046,Suresh,Keyboard,Electronics,5221.0,1143.0,3.0,2024-04-28,Karnataka,South,21.89,April
+ORD009,C1009,Divya,Keyboard,Furnitures,5451.0,-896.0,4.0,2024-01-24,Gujarath,south,-16.44,January
+ORD157,C1157,Sneha,Office Chair,Furnitures,5912.0,3602.0,3.0,2024-01-29,Gujarath,South,60.93,January
+ORD003,C1003,Suresh,Table,Furnitures,6402.0,1300.0,3.0,2024-01-09,Andhra Pradesh,North,20.31,January
+ORD060,C1060,Rahul,Keyboard,Furnitures,6489.0,-653.0,5.0,2024-03-22,Gujarath,South,-10.06,March
+ORD172,C1172,John,Printer,Furnitures,6542.0,4866.0,2.0,2024-05-19,Andhra Pradesh,south,74.38,May
+ORD169,C1169,Karthik,Mouse,Furnitures,6670.0,3944.0,2.0,2024-03-16,Andhra Pradesh,South,59.13,March
+ORD131,C1131,Vijay,Laptop,Furnitures,6685.0,117.0,1.0,2024-06-12,Gujarath,south,1.75,June
+ORD147,C1147,Vijay,Desk,Furnitures,6714.0,2801.0,1.0,2024-03-24,Andhra Pradesh,South,41.72,March
+ORD115,C1115,Arun,Desk,Furnitures,7623.0,-924.0,3.0,2024-01-07,Gujarath,South,-12.12,January
+ORD077,C1077,Deepa,Mobile Phone,Furnitures,7879.0,5386.0,5.0,2024-01-13,Gujarath,North,68.36,January
+ORD061,C1061,Pooja,Keyboard,Electronics,8011.0,1417.0,5.0,2024-04-25,Andhra Pradesh,South,17.69,April
+ORD145,C1145,none,Mobile Phone,Furnitures,8247.0,7750.0,5.0,2024-02-02,Gujarath,South,93.97,February
+ORD053,C1053,Keerthi,Mobile Phone,Electronics,8593.0,6499.0,2.0,2024-01-21,Gujarath,South,75.63,January
+ORD158,C1158,Karthik,Office Chair,Electronics,8856.0,7637.0,2.0,2024-04-15,Gujarath,south,86.24,April
+ORD154,C1154,Kumar,Keyboard,Furnitures,9647.0,2694.0,3.0,2024-03-19,Karnataka,south,27.93,March
+ORD036,C1036,Karthik,Monitor,Furnitures,10434.0,6000.0,1.0,2024-02-09,Andhra Pradesh,North,57.5,February
+ORD104,C1104,Karthik,Office Chair,Furnitures,10472.0,3921.0,2.0,2024-02-11,Gujarath,South,37.44,February
+ORD071,C1071,Monika,Laptop,Electronics,10550.0,4803.0,3.0,2024-06-23,Tamil Nadu,North,45.53,June
+ORD047,C1047,Pooja,Keyboard,Furnitures,11069.0,212.0,3.0,2024-04-14,Andhra Pradesh,south,1.92,April
+ORD065,C1065,Deepa,Table,Furnitures,11673.0,7484.0,5.0,2024-03-27,Tamil Nadu,North,64.11,March
+ORD139,C1139,Vijay,Keyboard,Furnitures,12097.0,3638.0,5.0,2024-05-01,Kerala,North,30.07,May
+ORD107,C1107,Sneha,Keyboard,Electronics,12540.0,3705.0,5.0,2024-05-13,Kerala,South,29.55,May
+ORD140,C1140,Deepa,Office Chair,Furnitures,13688.0,6880.0,4.0,2024-04-07,Gujarath,south,50.26,April
+ORD123,C1123,Harish,Mouse,Electronics,14047.0,6306.0,2.0,2024-04-10,Kerala,North,44.89,April
+ORD184,C1184,Latha,Mouse,Electronics,14074.0,7283.0,3.0,2024-05-29,Karnataka,South,51.75,May
+ORD124,C1124,Anita,Office Chair,Electronics,14156.0,1299.0,5.0,2024-05-26,Kerala,North,9.18,May
+ORD103,C1103,Keerthi,Office Chair,Electronics,14649.0,596.0,5.0,2024-04-09,Andhra Pradesh,North,4.07,April
+ORD111,C1111,Keerthi,Mouse,Electronics,15441.0,1382.0,2.0,2024-01-29,Karnataka,North,8.95,January
+ORD199,C1199,Monika,Office Chair,Furnitures,16472.0,1338.0,2.0,2024-03-06,Andhra Pradesh,South,8.12,March
+ORD066,C1066,Latha,Mobile Phone,Electronics,16613.0,6563.0,5.0,2024-04-30,Andhra Pradesh,North,39.51,April
+ORD180,C1180,Sneha,Office Chair,Furnitures,16842.0,7758.0,3.0,2024-04-02,Tamil Nadu,south,46.06,April
+ORD138,C1138,Divya,Mouse,Electronics,16886.0,7013.0,3.0,2024-05-27,Andhra Pradesh,south,41.53,May
+ORD030,C1030,Monika,Printer,Furnitures,16965.0,138.0,4.0,2024-06-04,Karnataka,South,0.81,June
+ORD042,C1042,Harish,Mouse,Furnitures,17708.0,3036.0,4.0,2024-06-06,Gujarath,south,17.14,June
+ORD055,C1055,Anita,Mouse,Furnitures,17955.0,2264.0,1.0,2024-06-01,Tamil Nadu,south,12.61,June
+ORD086,C1086,Latha,Desk,Electronics,19074.0,5588.0,3.0,2024-05-02,Andhra Pradesh,North,29.3,May
+ORD096,C1096,Vijay,Keyboard,Electronics,19352.0,3095.0,3.0,2024-01-10,Tamil Nadu,south,15.99,January
+ORD038,C1038,Monika,Mouse,Electronics,19478.0,3519.0,1.0,2024-06-19,Tamil Nadu,south,18.07,June
+ORD035,C1035,Priya,Table,Electronics,19512.0,95.0,3.0,2024-04-26,Andhra Pradesh,South,0.49,April
+ORD080,C1080,Rahul,Table,Furnitures,20008.0,682.0,5.0,2024-04-22,Karnataka,South,3.41,April
+ORD165,C1165,Pooja,Table,Electronics,20044.0,2046.0,5.0,2024-06-13,Gujarath,south,10.21,June
+ORD082,C1082,John,Printer,Electronics,20235.0,4382.0,4.0,2024-01-04,Kerala,south,21.66,January
+ORD194,C1194,Latha,Mouse,Electronics,20793.0,394.0,1.0,2024-03-19,Kerala,south,1.89,March
+ORD031,C1031,Ravi,Mouse,Electronics,20979.0,2457.0,2.0,2024-02-18,Andhra Pradesh,south,11.71,February
+ORD143,C1143,Meena,Office Chair,Furnitures,21960.0,7648.0,1.0,2024-05-14,Tamil Nadu,South,34.83,May
+ORD163,C1163,Keerthi,Laptop,Electronics,22326.0,2859.0,3.0,2024-04-30,Tamil Nadu,South,12.81,April
+ORD093,C1093,Keerthi,Mouse,Electronics,22346.0,-305.0,4.0,2024-01-27,Karnataka,south,-1.36,January
+ORD106,C1106,Meena,Printer,Electronics,22413.0,3889.0,1.0,2024-04-26,Tamil Nadu,South,17.35,April
+ORD020,C1020,Deepa,Table,Electronics,22468.0,7383.0,2.0,2024-01-08,Kerala,South,32.86,January
+ORD095,C1095,Priya,Keyboard,Furnitures,22845.0,3519.0,1.0,2024-02-05,Kerala,south,15.4,February
+ORD006,C1006,Priya,Table,Furnitures,22921.0,5057.0,5.0,2024-04-21,Kerala,south,22.06,April
+ORD076,C1076,Monika,Printer,Furnitures,23454.0,3519.0,4.0,2024-02-05,Karnataka,south,15.0,February
+ORD188,C1188,John,Laptop,Electronics,24186.0,4400.0,3.0,2024-01-28,Tamil Nadu,south,18.19,January
+ORD114,C1114,Suresh,Laptop,Electronics,24191.0,3519.0,3.0,2024-01-15,Karnataka,North,14.55,January
+ORD056,C1056,Meena,Desk,Furnitures,24266.0,2288.0,4.0,2024-01-15,Tamil Nadu,south,9.43,January
+ORD005,C1005,Arun,Keyboard,Electronics,24301.0,7655.0,4.0,2024-03-31,Andhra Pradesh,North,31.5,March
+ORD171,C1171,Ravi,Office Chair,Electronics,24775.0,3519.0,3.0,2024-05-17,Karnataka,south,14.2,May
+ORD167,C1167,Suresh,Printer,Furnitures,24892.0,5078.0,1.0,2024-01-25,Karnataka,South,20.4,January
+ORD091,C1091,Deepa,Keyboard,Furnitures,25048.0,6.0,4.0,2024-01-28,Karnataka,south,0.02,January
+ORD045,C1045,Ajay,Office Chair,Electronics,25186.0,5151.0,4.0,2024-02-22,Andhra Pradesh,North,20.45,February
+ORD108,C1108,Meena,Keyboard,Electronics,25352.0,5570.0,3.0,2024-04-17,Gujarath,South,21.97,April
+ORD021,C1021,Pooja,Office Chair,Electronics,25422.0,1673.0,2.0,2024-02-13,Kerala,North,6.58,February
+ORD192,C1192,Priya,Keyboard,Furnitures,26096.0,3321.0,2.0,2024-02-23,Andhra Pradesh,South,12.73,February
+ORD126,C1126,Kumar,Desk,Electronics,26580.0,3029.0,2.0,2024-01-26,Tamil Nadu,North,11.4,January
+ORD161,C1161,Karthik,Mouse,Electronics,26656.0,1051.0,3.0,2024-05-31,Gujarath,south,3.94,May
+ORD040,C1040,Rahul,Mouse,Furnitures,27072.0,1145.0,1.0,2024-06-24,Gujarath,North,4.23,June
+ORD084,C1084,John,Mobile Phone,Furnitures,27269.0,681.0,1.0,2024-01-18,Andhra Pradesh,North,2.5,January
+ORD092,C1092,Rahul,Office Chair,Electronics,27885.0,4419.0,3.0,2024-01-17,Gujarath,south,15.85,January
+ORD159,C1159,Priya,Office Chair,Electronics,27940.0,7288.0,3.0,2024-03-02,Tamil Nadu,South,26.08,March
+ORD070,C1070,Harish,Monitor,Furnitures,28170.0,3665.0,4.0,2024-02-18,Kerala,South,13.01,February
+ORD144,C1144,Sneha,Mobile Phone,Electronics,28239.0,5918.0,1.0,2024-04-25,Kerala,south,20.96,April
+ORD054,C1054,Harish,Office Chair,Furnitures,29065.0,4290.0,1.0,2024-03-08,Kerala,south,14.76,March
+ORD052,C1052,Arun,Printer,Furnitures,29307.0,-632.0,1.0,2024-04-07,Kerala,south,-2.16,April
+ORD177,C1177,Latha,Table,Electronics,29406.0,4223.0,3.0,2024-03-17,Karnataka,South,14.36,March
+ORD049,C1049,Deepa,Laptop,Furnitures,29416.0,-516.0,5.0,2024-03-21,Karnataka,South,-1.75,March
+ORD097,C1097,Harish,Monitor,Electronics,29634.0,6585.0,3.0,2024-02-29,Karnataka,North,22.22,February
+ORD134,C1134,Keerthi,Monitor,Electronics,30744.0,-434.0,4.0,2024-01-10,Gujarath,south,-1.41,January
+ORD155,C1155,Kumar,Mobile Phone,Electronics,30816.0,6824.0,3.0,2024-05-22,Kerala,south,22.14,May
+ORD110,C1110,Kumar,Laptop,Furnitures,31390.0,6996.0,5.0,2024-04-26,Kerala,South,22.29,April
+ORD122,C1122,John,Laptop,Furnitures,31496.0,5336.0,1.0,2024-06-16,Tamil Nadu,south,16.94,June
+ORD027,C1027,Vijay,Monitor,Furnitures,31647.0,5594.0,2.0,2024-02-14,Karnataka,south,17.68,February
+ORD078,C1078,Deepa,Table,Electronics,31742.0,3860.0,4.0,2024-03-20,Gujarath,South,12.16,March
+ORD013,C1013,Divya,Monitor,Electronics,32217.0,6976.0,1.0,2024-06-01,Kerala,South,21.65,June
+ORD174,C1174,none,Table,Electronics,32491.0,2139.0,5.0,2024-02-18,Gujarath,North,6.58,February
+ORD043,C1043,Sneha,Mouse,Electronics,32604.0,4260.0,1.0,2024-01-17,Tamil Nadu,South,13.07,January
+ORD059,C1059,Kumar,Printer,Electronics,32623.0,1309.0,5.0,2024-06-27,Karnataka,South,4.01,June
+ORD067,C1067,Sneha,Laptop,Electronics,32644.0,5421.0,2.0,2024-05-28,Karnataka,North,16.61,May
+ORD195,C1195,Harish,Office Chair,Electronics,32706.0,2191.0,5.0,2024-03-18,Kerala,North,6.7,March
+ORD128,C1128,Keerthi,Mobile Phone,Electronics,33209.0,3199.0,3.0,2024-03-12,Andhra Pradesh,south,9.63,March
+ORD062,C1062,Karthik,Table,Furnitures,33431.0,4909.0,4.0,2024-02-21,Tamil Nadu,South,14.68,February
+ORD063,C1063,Karthik,Mobile Phone,Furnitures,33699.0,3635.0,5.0,2024-02-06,Kerala,south,10.79,February
+ORD037,C1037,Karthik,Monitor,Furnitures,33733.0,5368.0,5.0,2024-01-01,Kerala,South,15.91,January
+ORD002,C1002,Priya,Printer,Electronics,34191.0,717.0,4.0,2024-03-15,Tamil Nadu,North,2.1,March
+ORD179,C1179,Suresh,Laptop,Electronics,34240.0,1921.0,4.0,2024-04-13,Andhra Pradesh,North,5.61,April
+ORD120,C1120,Deepa,Printer,Electronics,34445.0,-845.0,2.0,2024-02-20,Karnataka,North,-2.45,February
+ORD133,C1133,Anita,Office Chair,Electronics,34696.0,3519.0,5.0,2024-05-25,Gujarath,South,10.14,May
+ORD181,C1181,Arun,Laptop,Furnitures,35106.0,6505.0,1.0,2024-06-01,Karnataka,South,18.53,June
+ORD116,C1116,none,Monitor,Electronics,35163.0,1821.0,1.0,2024-02-29,Gujarath,south,5.18,February
+ORD083,C1083,Ravi,Laptop,Electronics,35596.0,7517.0,5.0,2024-04-06,Tamil Nadu,North,21.12,April
+ORD173,C1173,Priya,Monitor,Electronics,35770.0,7751.0,2.0,2024-01-15,Kerala,south,21.67,January
+ORD048,C1048,Priya,Table,Electronics,35804.0,4150.0,3.0,2024-02-17,Kerala,South,11.59,February
+ORD081,C1081,Divya,Table,Furnitures,35810.0,1213.0,4.0,2024-04-14,Tamil Nadu,North,3.39,April
+ORD118,C1118,Priya,Office Chair,Electronics,36624.0,135.0,4.0,2024-03-26,Andhra Pradesh,south,0.37,March
+ORD016,C1016,Anita,Keyboard,Electronics,36635.0,5790.0,2.0,2024-05-01,Tamil Nadu,south,15.8,May
+ORD146,C1146,Karthik,Office Chair,Electronics,38102.0,5926.0,1.0,2024-03-31,Andhra Pradesh,South,15.55,March
+ORD148,C1148,Latha,Office Chair,Electronics,38826.0,4980.0,2.0,2024-04-08,Karnataka,south,12.83,April
+ORD152,C1152,Ajay,Laptop,Furnitures,39010.0,3519.0,3.0,2024-06-23,Gujarath,south,9.02,June
+ORD029,C1029,none,Keyboard,Furnitures,39080.0,-95.0,1.0,2024-06-23,Andhra Pradesh,south,-0.24,June
+ORD088,C1088,Meena,Mouse,Electronics,39265.0,7437.0,5.0,2024-04-16,Kerala,South,18.94,April
+ORD191,C1191,Deepa,Mouse,Furnitures,39636.0,1887.0,5.0,2024-04-28,Karnataka,south,4.76,April
+ORD105,C1105,Harish,Keyboard,Electronics,39716.0,658.0,2.0,2024-05-02,Tamil Nadu,south,1.66,May
+ORD032,C1032,Suresh,Mobile Phone,Electronics,39867.0,2450.0,1.0,2024-06-27,Tamil Nadu,south,6.15,June
+ORD079,C1079,Monika,Office Chair,Electronics,40330.0,2471.0,1.0,2024-06-09,Karnataka,south,6.13,June
+ORD064,C1064,Kumar,Office Chair,Furnitures,40642.0,7839.0,4.0,2024-04-07,Andhra Pradesh,North,19.29,April
+ORD112,C1112,Meena,Mobile Phone,Furnitures,40951.0,-559.0,5.0,2024-04-06,Gujarath,North,-1.37,April
+ORD008,C1008,Vijay,Keyboard,Electronics,41271.0,634.0,5.0,2024-03-23,Andhra Pradesh,North,1.54,March
+ORD166,C1166,Pooja,Laptop,Electronics,41678.0,4885.0,2.0,2024-03-01,Karnataka,south,11.72,March
+ORD058,C1058,none,Office Chair,Furnitures,41912.0,819.0,2.0,2024-06-22,Gujarath,South,1.95,June
+ORD018,C1018,Monika,Printer,Electronics,42267.0,4926.0,1.0,2024-05-06,Tamil Nadu,South,11.65,May
+ORD127,C1127,Vijay,Laptop,Furnitures,42327.0,3618.0,3.0,2024-06-25,Kerala,South,8.55,June
+ORD074,C1074,Anita,Office Chair,Furnitures,42893.0,6161.0,4.0,2024-04-08,Tamil Nadu,North,14.36,April
+ORD010,C1010,Deepa,Laptop,Electronics,43250.0,7917.0,2.0,2024-03-24,Gujarath,North,18.31,March
+ORD183,C1183,Harish,Mobile Phone,Electronics,44073.0,4668.0,2.0,2024-03-06,Kerala,south,10.59,March
+ORD160,C1160,Vijay,Printer,Furnitures,44280.0,2017.0,5.0,2024-02-03,Andhra Pradesh,North,4.56,February
+ORD129,C1129,Divya,Printer,Furnitures,44358.0,7306.0,2.0,2024-04-01,Andhra Pradesh,South,16.47,April
+ORD028,C1028,Meena,Mouse,Electronics,44714.0,2275.0,3.0,2024-03-03,Karnataka,South,5.09,March
+ORD186,C1186,Divya,Desk,Electronics,45061.0,2652.0,5.0,2024-06-28,Gujarath,south,5.89,June
+ORD014,C1014,Pooja,Table,Electronics,45154.0,6775.0,5.0,2024-02-24,Gujarath,South,15.0,February
+ORD026,C1026,John,Monitor,Furnitures,45374.0,3244.0,4.0,2024-04-08,Gujarath,south,7.15,April
+ORD073,C1073,Suresh,Monitor,Electronics,45560.0,3865.0,1.0,2024-02-21,Andhra Pradesh,South,8.48,February
+ORD004,C1004,Rahul,Desk,Electronics,46199.0,3490.0,3.0,2024-04-15,Gujarath,North,7.55,April
+ORD137,C1137,Divya,Laptop,Electronics,46351.0,-931.0,5.0,2024-01-30,Gujarath,South,-2.01,January
+ORD033,C1033,Pooja,Laptop,Electronics,47397.0,7969.0,4.0,2024-06-20,Gujarath,south,16.81,June
+ORD168,C1168,Deepa,Keyboard,Electronics,47397.0,-338.0,1.0,2024-06-20,Andhra Pradesh,North,-0.71,June
+ORD196,C1196,Ajay,Office Chair,Electronics,48336.0,6104.0,2.0,2024-05-29,Andhra Pradesh,North,12.63,May
+ORD113,C1113,Meena,Monitor,Electronics,48551.0,6649.0,2.0,2024-05-20,Andhra Pradesh,North,13.69,May
+ORD135,C1135,Ajay,Office Chair,Electronics,49432.0,7458.0,2.0,2024-06-24,Kerala,South,15.09,June
+ORD176,C1176,Sneha,Monitor,Electronics,49795.0,2262.0,3.0,2024-03-13,Kerala,South,4.54,March
+ORD012,C1012,Suresh,Mobile Phone,Furnitures,49820.0,1449.0,4.0,2024-02-02,Tamil Nadu,North,2.91,February
+ORD156,C1156,Keerthi,Desk,Electronics,49832.0,4486.0,2.0,2024-02-02,Karnataka,South,9.0,February
+ORD094,C1094,Anita,Laptop,Electronics,50466.0,-688.0,3.0,2024-04-14,Kerala,South,-1.36,April
+ORD044,C1044,Vijay,Mouse,Electronics,50888.0,1082.0,4.0,2024-04-25,Andhra Pradesh,South,2.13,April
+ORD011,C1011,Meena,Office Chair,Electronics,50937.0,7721.0,1.0,2024-04-03,Gujarath,South,15.16,April
+ORD132,C1132,Priya,Mobile Phone,Electronics,50960.0,410.0,2.0,2024-05-05,Kerala,south,0.8,May
+ORD039,C1039,Priya,Office Chair,Furnitures,50971.0,5019.0,1.0,2024-06-12,Andhra Pradesh,south,9.85,June
+ORD023,C1023,Meena,Table,Electronics,51125.0,186.0,3.0,2024-05-16,Andhra Pradesh,North,0.36,May
+ORD151,C1151,Meena,Monitor,Furnitures,51208.0,7655.0,3.0,2024-05-24,Andhra Pradesh,south,14.95,May
+ORD193,C1193,Kumar,Keyboard,Furnitures,52172.0,2122.0,3.0,2024-04-27,Kerala,South,4.07,April
+ORD182,C1182,Ravi,Keyboard,Electronics,52300.0,1834.0,3.0,2024-06-08,Karnataka,south,3.51,June
+ORD024,C1024,Keerthi,Office Chair,Electronics,52556.0,-598.0,2.0,2024-01-08,Gujarath,South,-1.14,January
+ORD117,C1117,Monika,Monitor,Furnitures,52559.0,-58.0,4.0,2024-04-16,Andhra Pradesh,South,-0.11,April
+ORD007,C1007,Vijay,Mouse,Electronics,52647.0,6544.0,5.0,2024-01-03,Tamil Nadu,North,12.43,January
+ORD198,C1198,Divya,Office Chair,Furnitures,52861.0,7241.0,1.0,2024-03-02,Andhra Pradesh,South,13.7,March
+ORD072,C1072,Sneha,Mouse,Electronics,53125.0,6163.0,3.0,2024-05-18,Andhra Pradesh,North,11.6,May
+ORD162,C1162,John,Mobile Phone,Furnitures,53267.0,3548.0,4.0,2024-04-23,Gujarath,South,6.66,April
+ORD189,C1189,Suresh,Office Chair,Electronics,53392.0,6534.0,4.0,2024-05-09,Kerala,south,12.24,May
+ORD178,C1178,Monika,Laptop,Electronics,53408.0,-938.0,1.0,2024-05-13,Gujarath,North,-1.76,May
+ORD164,C1164,Monika,Keyboard,Electronics,54918.0,659.0,1.0,2024-04-26,Andhra Pradesh,South,1.2,April
+ORD090,C1090,Suresh,Desk,Furnitures,55119.0,6583.0,2.0,2024-01-09,Karnataka,south,11.94,January
+ORD001,C1001,Vijay,Laptop,Electronics,55148.0,737.0,2.0,2024-06-11,Karnataka,south,1.34,June
+ORD101,C1101,Harish,Printer,Furnitures,55735.0,4490.0,2.0,2024-01-25,Tamil Nadu,south,8.06,January
+ORD121,C1121,Pooja,Office Chair,Furnitures,56025.0,3411.0,2.0,2024-02-26,Kerala,south,6.09,February
+ORD099,C1099,John,Monitor,Electronics,56561.0,-904.0,3.0,2024-03-13,Tamil Nadu,North,-1.6,March
+ORD019,C1019,Arun,Desk,Furnitures,57060.0,3519.0,2.0,2024-04-03,Tamil Nadu,South,6.17,April
+ORD142,C1142,Harish,Keyboard,Furnitures,57069.0,2761.0,2.0,2024-01-08,Karnataka,South,4.84,January
+ORD069,C1069,Ajay,Office Chair,Furnitures,57398.0,4941.0,3.0,2024-02-18,Andhra Pradesh,North,8.61,February
+ORD041,C1041,Meena,Desk,Furnitures,57687.0,609.0,2.0,2024-05-12,Andhra Pradesh,South,1.06,May
+ORD190,C1190,Karthik,Table,Furnitures,57989.0,3519.0,2.0,2024-04-25,Tamil Nadu,North,6.07,April
+ORD098,C1098,Harish,Laptop,Furnitures,58465.0,-995.0,2.0,2024-04-25,Andhra Pradesh,North,-1.7,April
+ORD015,C1015,Latha,Desk,Furnitures,58503.0,4778.0,2.0,2024-01-15,Gujarath,south,8.17,January
+ORD109,C1109,Sneha,Keyboard,Electronics,59142.0,3343.0,3.0,2024-03-24,Andhra Pradesh,North,5.65,March
+ORD057,C1057,Ajay,Laptop,Electronics,59235.0,3519.0,2.0,2024-04-06,Karnataka,North,5.94,April
+ORD141,C1141,Anita,Mobile Phone,Furnitures,59289.0,5286.0,1.0,2024-05-17,Andhra Pradesh,south,8.92,May
+ORD130,C1130,Latha,Laptop,Electronics,59521.0,6500.0,5.0,2024-01-30,Andhra Pradesh,South,10.92,January
+ORD025,C1025,Ravi,Laptop,Electronics,250000.0,662.0,1.0,2024-04-03,Karnataka,south,0.26,April
+ORD050,C1050,Arun,Printer,Electronics,250000.0,24.0,1.0,2024-03-29,Gujarath,South,0.01,March
+ORD075,C1075,Sneha,Mobile Phone,Electronics,250000.0,-849.0,2.0,2024-06-05,Kerala,South,-0.34,June
+ORD100,C1100,Priya,Monitor,Electronics,250000.0,-189.0,5.0,2024-06-29,Karnataka,south,-0.08,June
+ORD125,C1125,Kumar,Desk,Furnitures,250000.0,222.0,4.0,2024-06-28,Karnataka,South,0.09,June
+ORD150,C1150,Vijay,Mouse,Furnitures,250000.0,5866.0,5.0,2024-04-06,Tamil Nadu,North,2.35,April
+ORD175,C1175,Deepa,Office Chair,Furnitures,250000.0,1209.0,3.0,2024-03-30,Karnataka,North,0.48,March
+ORD200,C1200,Meena,Table,Electronics,250000.0,5665.0,1.0,2024-01-07,Karnataka,south,2.27,January
+ORD017,C1017,Harish,Monitor,Furnitures,32706.0,-66.0,3.0,2024-05-04,Andhra Pradesh,North,-0.2,May
+ORD034,C1034,Ravi,Laptop,Electronics,32706.0,634.0,2.0,2024-05-03,Gujarath,South,1.94,May
+ORD051,C1051,Pooja,Keyboard,Furnitures,32706.0,7553.0,4.0,2024-04-14,Andhra Pradesh,south,23.09,April
+ORD068,C1068,Rahul,Desk,Electronics,32706.0,7633.0,4.0,2024-03-01,Kerala,North,23.34,March
+ORD085,C1085,Ravi,Table,Electronics,32706.0,3768.0,2.0,2024-02-18,Gujarath,North,11.52,February
+ORD102,C1102,Vijay,Laptop,Electronics,32706.0,2231.0,2.0,2024-02-06,Kerala,South,6.82,February
+ORD119,C1119,Rahul,Office Chair,Furnitures,32706.0,6841.0,4.0,2024-01-18,Andhra Pradesh,South,20.92,January
+ORD136,C1136,Sneha,Printer,Electronics,32706.0,-285.0,3.0,2024-05-05,Karnataka,South,-0.87,May
+ORD153,C1153,John,Desk,Electronics,32706.0,-515.0,5.0,2024-06-29,Karnataka,North,-1.57,June
+ORD170,C1170,Arun,Monitor,Electronics,32706.0,-783.0,2.0,2024-03-22,Andhra Pradesh,South,-2.39,March
+ORD187,C1187,Monika,Mouse,Electronics,32706.0,4553.0,1.0,2024-01-26,Karnataka,South,13.92,January
